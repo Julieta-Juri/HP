@@ -16,8 +16,8 @@ function App() {
       {/* Hero Section */}
       <div className="bg-primary text-white py-5">
         <div className="container text-center">
-          <h1 className="display-4 fw-bold">Bienvenido a Hotel Paraíso</h1>
-          <p className="lead">La mejor experiencia hotelera en México</p>
+          <h1 className="display-4 fw-bold">Bienvenido a Hotel ParaísoOO</h1>
+          <p className="lead">La mejor experiencia hotelera en Méxicooooo</p>
           <button className="btn btn-light btn-lg">Reservar Ahora</button>
         </div>
       </div>

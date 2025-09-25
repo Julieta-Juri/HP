@@ -17,7 +17,7 @@ function App() {
       <div className="bg-primary text-white py-5">
         <div className="container text-center">
           <h1 className="display-4 fw-bold">Bienvenido a Hotel Paraíso</h1>
-          <p className="lead">La mejor experiencia hotelera en Colombia</p>
+          <p className="lead">La mejor experiencia hotelera en México</p>
           <button className="btn btn-light btn-lg">Reservar Ahora</button>
         </div>
       </div>
